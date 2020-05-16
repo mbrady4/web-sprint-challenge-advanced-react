@@ -25,7 +25,7 @@ function App() {
     <div>
       <Router>
         <nav className="container">
-          <h1>
+          <h1> 
             React Plants <span role="img">🌿</span>
           </h1>
           <ul className="steps">
